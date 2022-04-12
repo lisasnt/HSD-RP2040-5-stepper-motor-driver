@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "A4988")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/A4988SETTR-T.kicad_sym")(options "")(descr ""))
+  (lib (name "HSD")(type "KiCad")(uri "${KIPRJMOD}/lib/symbols/HSD.kicad_sym")(options "")(descr ""))
 )

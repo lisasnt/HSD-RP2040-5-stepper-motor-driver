@@ -308,6 +308,11 @@
   )
 
 
+  (text "ldo o switching?\n" (at 172.72 69.85 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3a88b780-d06b-4a04-956a-7caf98db45f3)
+  )
+
   (symbol (lib_id "Connector:USB_B_Micro") (at 71.12 127 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 0c6e8615-9d18-4f65-8986-fec14c082cc7)

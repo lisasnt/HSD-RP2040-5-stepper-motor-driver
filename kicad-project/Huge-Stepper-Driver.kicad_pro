@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "5-stepper-driver.kicad_pro",
+    "filename": "Huge-Stepper-Driver.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -332,6 +332,10 @@
     [
       "4f8c7c93-1d61-4a01-a5c2-288dd81060c9",
       "Power Management"
+    ],
+    [
+      "3d25ea00-3597-4b84-9896-d06c9254cef7",
+      "Peripherals"
     ]
   ],
   "text_variables": {}
