@@ -331,11 +331,15 @@
     ],
     [
       "f5d928fb-e6dd-4010-8c57-6f8716fdab33",
-      "Drivers"
+      "Bipolar Driver 1"
     ],
     [
       "3d25ea00-3597-4b84-9896-d06c9254cef7",
       "Peripherals"
+    ],
+    [
+      "b64c62a4-391f-456e-bc3a-157e292ff8ac",
+      "Unipolar Driver "
     ]
   ],
   "text_variables": {}
