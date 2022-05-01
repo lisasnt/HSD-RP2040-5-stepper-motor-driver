@@ -1849,7 +1849,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 82f5fe4d-1d45-4645-b9ad-47b5e0ee2966)
     (property "Reference" "F?" (id 0) (at 63.5 58.42 90))
-    (property "Value" "" (id 1) (at 63.5 60.96 90))
+    (property "Value" "Fuse ??A" (id 1) (at 63.5 60.96 90))
     (property "Footprint" "ppse_2021:Fuse Holder" (id 2) (at 63.5 66.548 90)
       (effects (font (size 1.27 1.27)) hide)
     )
