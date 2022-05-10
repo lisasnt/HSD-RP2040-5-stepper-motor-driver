@@ -1246,7 +1246,6 @@
     )
   )
 
-
   (junction (at 130.81 44.45) (diameter 0) (color 0 0 0 0)
     (uuid 43584dc8-381d-4460-877e-fd4af897f6ca)
   )
@@ -3467,13 +3466,8 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 78d8bd80-466a-436c-a59f-bcd2d0c0227a)
     (property "Reference" "L1" (id 0) (at 186.69 38.1 90))
-<<<<<<< HEAD
     (property "Value" "4.7u" (id 1) (at 186.69 40.64 90))
     (property "Footprint" "Inductor_SMD:L_0603_1608Metric" (id 2) (at 186.69 44.45 0)
-=======
-    (property "Value" "2.2u" (id 1) (at 186.69 40.64 90))
-    (property "Footprint" "" (id 2) (at 186.69 44.45 0)
->>>>>>> 7bd413e5911bd92381ea40d6093e3b711a54fdb4
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.mouser.it/datasheet/2/54/SRP2512-1391417.pdf" (id 3) (at 186.69 44.45 0)
