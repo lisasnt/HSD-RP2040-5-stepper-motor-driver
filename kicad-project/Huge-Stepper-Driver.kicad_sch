@@ -710,9 +710,6 @@
     (path "/f5d928fb-e6dd-4010-8c57-6f8716fdab33/d8c4fbab-9c9f-4cd6-8b59-6d70e4f756d5"
       (reference "#PWR094") (unit 1) (value "GND") (footprint "")
     )
-    (path "/18df3b4d-b69d-45aa-8b2a-e433af4ece2d/f411a65c-9378-45be-8b13-d66d1c5f5948"
-      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
-    )
     (path "/b64c62a4-391f-456e-bc3a-157e292ff8ac/00b2dd0b-c6d6-4889-87f4-55978086b1b4"
       (reference "#PWR0119") (unit 1) (value "+5V") (footprint "")
     )
@@ -906,7 +903,7 @@
       (reference "J21") (unit 1) (value "Motor 1") (footprint "Connector_JST:JST_XH_B5B-XH-AM_1x05_P2.50mm_Vertical")
     )
     (path "/4f8c7c93-1d61-4a01-a5c2-288dd81060c9/78d8bd80-466a-436c-a59f-bcd2d0c0227a"
-      (reference "L1") (unit 1) (value "4.7u") (footprint "Inductor_SMD:L_0603_1608Metric")
+      (reference "L1") (unit 1) (value "4.7u") (footprint "HSD:Inductance")
     )
     (path "/b64c62a4-391f-456e-bc3a-157e292ff8ac/33a5d0c1-061b-4ef8-bcfe-5927a336ea15"
       (reference "Q5") (unit 1) (value "2N7002NXAKR") (footprint "Package_TO_SOT_SMD:SOT-23")
@@ -973,6 +970,9 @@
     )
     (path "/18df3b4d-b69d-45aa-8b2a-e433af4ece2d/97285f2e-d494-4aa3-9e23-de2b66b08e16"
       (reference "R18") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/4f8c7c93-1d61-4a01-a5c2-288dd81060c9/143a35af-b893-4b64-95e7-41f6c73b6bcb"
+      (reference "R19") (unit 1) (value "0") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/b64c62a4-391f-456e-bc3a-157e292ff8ac/4a29e700-f5ec-4b4a-85a3-ad59c3ca9dd5"
       (reference "R34") (unit 1) (value "22") (footprint "Resistor_SMD:R_0603_1608Metric")
