@@ -1,1 +1,1 @@
-# HSD Huge Stepper Driver
+# HSD Stepper Driver
